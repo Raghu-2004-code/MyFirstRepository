@@ -1,0 +1,5 @@
+struct Structure_name{
+       datatype1 member1;
+       datatype2 member2;
+       //more members
+};
